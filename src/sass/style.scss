@@ -14,8 +14,8 @@ $inner: calc(64rem + 8vw);
    Basics
    ========================================================================== */
 :root {
-	--font-primary: 'Fira Sans', sans-serif;
-	--font-secondary: 'Libre Baskerville', serif;
+	--font-primary: 'Inter', sans-serif;
+	--font-secondary: 'Inter', serif;
 }
 
 html {
@@ -32,7 +32,7 @@ body {
 	font-family: var(--font-primary);
 	font-size: 1em;
 	line-height: 1.75em;
-	font-weight: 400;
+	font-weight: 500;
 	color: var(--color-content-main);
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
